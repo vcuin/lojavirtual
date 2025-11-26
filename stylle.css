@@ -1,4 +1,12 @@
 {
     "name": "styllle.css",
     "content": "body {\n  background-color: #f0f0f0;\n  font-family: Arial, sans-serif;\n}\n\nh1 {\n  color: #333333;\n}\n\np {\n  line-height: 1.6;\n  color: #666666;\n}\n"
+    font-size: 16px;
+}
+div.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
